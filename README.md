@@ -1,6 +1,8 @@
 # DNDProject
 An unfinished Unreal Engine 4 project, intended to be a Top-Down MMO taking inspiration from the tabletop game Dungeons And Dragons.
 
+This project also has some abilities implemented that can be seen here https://youtu.be/vLlTfdjpKNs , if you wish to see the code for those feel free to ask.
+
 Most of the things I did with this project I did them with C++, blueprints are still used but are much simpler with the help of C++ methods.
 
 The DND/GameMode folder has anything related to game mode (Player controller, player state, and so forth).
